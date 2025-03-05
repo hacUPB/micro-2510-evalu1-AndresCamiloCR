@@ -302,4 +302,4 @@ Los bits 12-14 determinan las condiciones de salto (`jmpGt`, `jmpEq`, `jmpLt`).
 **Resultado**:
 - Al ejecutar el programa, se puede observar cómo la CPU suma iterativamente los valores de `i` hasta alcanzar 100, almacenando el resultado en `sum`.
 - La animación destaca los pasos precisos de la CPU, como el uso de registros y las decisiones basadas en las comparaciones de la ALU.
-*/
+  
